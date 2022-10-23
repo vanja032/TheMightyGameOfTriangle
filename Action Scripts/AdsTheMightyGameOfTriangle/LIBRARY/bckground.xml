@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bckground" itemID="58e3ee96-0000000d" lastModified="1491332758">
+  <timeline>
+    <DOMTimeline name="bckground">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="DSC_0121.JPG">
+                  <matrix>
+                    <Matrix a="0" b="-0.24298095703125" c="0.24298095703125" d="0" tx="-262.4" ty="466.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1919.9" y="1080.15"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

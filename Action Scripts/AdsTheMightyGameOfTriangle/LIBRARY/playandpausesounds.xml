@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="playandpausesounds" itemID="58eeb01d-000000d9" symbolType="button" lastModified="1493848990">
+  <timeline>
+    <DOMTimeline name="playandpausesounds">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="soundformygamemightytriangle0.png">
+                  <matrix>
+                    <Matrix a="0.848526000976563" d="0.848526000976563" tx="-101" ty="-111"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="soundformygamemightytriangle0.png">
+                  <matrix>
+                    <Matrix a="0.848526000976563" d="0.848526000976563" tx="-101" ty="-111"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="soundformygamemightytriangle0.png">
+                  <matrix>
+                    <Matrix a="0.848526000976563" d="0.848526000976563" tx="-101" ty="-111"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="soundformygamemightytriangle0.png">
+                  <matrix>
+                    <Matrix a="0.848526000976563" d="0.848526000976563" tx="-101" ty="-111"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

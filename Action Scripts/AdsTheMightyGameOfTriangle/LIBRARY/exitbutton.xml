@@ -1,0 +1,159 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="exitbutton" itemID="58e4f75f-0000009c" symbolType="button" lastModified="1491401734">
+  <timeline>
+    <DOMTimeline name="exitbutton" currentFrame="3">
+      <layers>
+        <DOMLayer name="text" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" left="-20.6" width="68.2" height="12.05" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.06565856933594" b="-0.608383178710938" tx="-7.1" ty="-4.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>   EXIT GAME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="12.05" size="10" bitmapSize="200" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="rules" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C4C4C4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-428 422|1012 -400!1012 -400|1012 -380!1012 -380|-428 442!-428 442|-428 422!1012 -800|-428 22!-428 22|-428 2!-428 2|1012 -820!1012 -820|1012 -800"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!746 -662|-502 58!-502 58|-512 40!-512 40|736 -680!736 -680|746 -662!-302 404|946 -316!946 -316|956 -298!956 -298|-292 422!-292 422|-302 404"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-323 380|1066 -422!1066 -422|1076 -404!1076 -404|-313 398!-313 398|-323 380!866 -768|-523 34!-523 34|-533 16!-533 16|856 -786!856 -786|866 -768"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="box" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.01220703125" c="0.010986328125" d="-0.0062713623046875" tx="14.6" ty="-9.4"/>
+                        </matrix>
+                        <GradientEntry color="#C4C4C4" ratio="0"/>
+                        <GradientEntry color="#808080" ratio="0.654901960784314"/>
+                        <GradientEntry color="#C4C4C4" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-428 42|1012 -780!1012 -780|1012 -420!1012 -420|-428 402!-428 402|-428 42"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0060882568359375" b="-0.01055908203125" c="0.0095062255859375" d="-0.0054779052734375" tx="14.55" ty="-8.4"/>
+                        </matrix>
+                        <GradientEntry color="#E1E1E1" ratio="0"/>
+                        <GradientEntry color="#666666" ratio="0.654901960784314"/>
+                        <GradientEntry color="#E1E1E1" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!825 -685|1005 -373!1005 -373|-242 347!-242 347|-422 35!-422 35|825 -685"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0060882568359375" b="-0.01055908203125" c="0.0095062255859375" d="-0.0054779052734375" tx="13.5" ty="-9.65"/>
+                        </matrix>
+                        <GradientEntry color="#666666" ratio="0"/>
+                        <GradientEntry color="#E1E1E1" ratio="0.380392156862745"/>
+                        <GradientEntry color="#666666" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!984 -397|-263 322!-263 322|-443 10!-443 10|804 -709!804 -709|984 -397"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="-0.258804321289062" c="0.258804321289062" d="0.965927124023438" tx="8.05" ty="0.1"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-720.5 -220S2|719.5 -220!719.5 -220|719.5 220!719.5 220|-720.5 220!-720.5 220|-720.5 -220"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

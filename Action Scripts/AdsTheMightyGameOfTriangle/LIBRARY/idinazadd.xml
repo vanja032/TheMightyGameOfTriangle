@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="idinazadd" itemID="590b4580-00000178" symbolType="button" lastModified="1494342031">
+  <timeline>
+    <DOMTimeline name="idinazadd" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sprite_3.png">
+                  <matrix>
+                    <Matrix tx="-124" ty="-87"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sprite_3.png">
+                  <matrix>
+                    <Matrix tx="-124" ty="-87"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sprite_4.png">
+                  <matrix>
+                    <Matrix tx="-124" ty="-74"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="TouchPanel">
+                  <matrix>
+                    <Matrix a="0.442291259765625" d="0.337203979492188" tx="0.25" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="sprite_4.png">
+                  <matrix>
+                    <Matrix tx="-124" ty="-74"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="TouchPanel" selected="true">
+                  <matrix>
+                    <Matrix a="0.442291259765625" d="0.337203979492188" tx="0.25" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pauseddtext" itemID="58fe7d86-0000021d" lastModified="1493073773">
+  <timeline>
+    <DOMTimeline name="pauseddtext">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="pausedd" selected="true" width="428.5" height="104" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix tx="-214.25" ty="-52"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>PAUSED</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="54.75" size="49" bitmapSize="980" face="pixelfont*" fillColor="#FFFF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

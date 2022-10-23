@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="startt" itemID="58eba072-00000035" symbolType="button" lastModified="1494341923">
+  <timeline>
+    <DOMTimeline name="startt" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="start1.png">
+                  <matrix>
+                    <Matrix a="0.21844482421875" d="0.21844482421875" tx="-170" ty="-135"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="start1.png">
+                  <matrix>
+                    <Matrix a="0.21844482421875" d="0.21844482421875" tx="-170" ty="-135"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="start2.png">
+                  <matrix>
+                    <Matrix a="0.219345092773438" d="0.219345092773438" tx="-170" ty="-125"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="TouchPanel">
+                  <matrix>
+                    <Matrix a="0.611495971679688" d="0.351852416992188" tx="1.8" ty="-44.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="start2.png">
+                  <matrix>
+                    <Matrix a="0.219345092773438" d="0.219345092773438" tx="-170" ty="-125"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="TouchPanel" selected="true">
+                  <matrix>
+                    <Matrix a="0.611495971679688" d="0.351852416992188" tx="1.8" ty="-44.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

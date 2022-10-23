@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 2" itemID="58e4e520-00000021" symbolType="graphic" lastModified="1491395872">
+  <timeline>
+    <DOMTimeline name="Tween 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="base" name="base" selected="true">
+                  <matrix>
+                    <Matrix a="-1.78335571289063" d="-1.78335571289063" tx="-44.55" ty="89.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="base" name="base" selected="true">
+                  <matrix>
+                    <Matrix a="-1.78335571289063" d="-1.78335571289063" tx="44.6" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="base" name="base" selected="true">
+                  <matrix>
+                    <Matrix a="1.78335571289063" d="1.78335571289063" tx="44.6" ty="89.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="base" name="base" selected="true">
+                  <matrix>
+                    <Matrix a="1.78335571289063" d="1.78335571289063" tx="-44.55" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="object" name="object" selected="true" centerPoint3DX="44.4" centerPoint3DY="-89.25">
+                  <matrix>
+                    <Matrix a="1.78335571289063" d="1.78335571289063" tx="44.6" ty="-89.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

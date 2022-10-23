@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="rounded grey center playback" itemID="4283c01e-00002db1" sourceFlashFilepath="../../Untitled-1.fla" sourceLibraryItemHRef="rounded grey center playback" sourceLastModified="1115959973" symbolType="graphic" lastModified="1115959973" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="rounded grey center playback">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.01214599609375" c="0.0119476318359375" d="0" tx="-24.55"/>
+                        </matrix>
+                        <GradientEntry color="#6F6F6F" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.01214599609375" c="0.0119476318359375" d="0" tx="24.55"/>
+                        </matrix>
+                        <GradientEntry color="#6F6F6F" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!59 -180|162 -180!162 -180[#C1.E2 #FFFF4C.14 216.5 -159!216.5 -159[#EF.1 #FFFF75.C3 240 -108!240 -108|240 108!240 108[#F0.18 #89.43 216.5 158!216.5 158[#C1.E2 #B2.F3 162 180!162 180|59 180"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!59 180|59 -180"/>
+                    <Edge fillStyle1="2" edges="!59 180|-161.5 180!-161.5 180[#FFFF3D.99 #B3.E5 -217 158!-217 158[#FFFF10.2B #89.43 -240 108!-240 108|-240 -108!-240 -108[#FFFF10.2B #FFFF75.C3 -217 -159!-217 -159[#FFFF3D.99 #FFFF4C.14 -161.5 -180!-161.5 -180|59 -180"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

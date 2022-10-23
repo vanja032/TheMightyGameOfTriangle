@@ -1,2 +1,3 @@
 *.as linguist-detectable=true
 *.as linguist-language=ActionScript
+*.as text diff=ActionScript
